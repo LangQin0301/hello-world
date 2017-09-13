@@ -30,7 +30,7 @@ From ["built with"](http://builtwith.com/?http%3a%2f%2fwww.nytimes.com%2fproject
 
 ## RESOURCES
 
-* Braven, J., [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek).
+* Hollow project team., [Hollow-An interactive Documentary](http://hollowdocumentary.com/).
 * [Built With](http://builtwith.com/).
 * [Markdown syntax](http://daringfireball.net/projects/markdown/basics).
 
