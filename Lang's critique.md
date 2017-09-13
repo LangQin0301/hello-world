@@ -21,7 +21,9 @@ From inspecting element on the site, I can see that it uses UTF-8 character enco
 
 It uses a combination of Javascript, HTML, and CSS as seen in the metatags in the `<style>` tags (primarily CSS): 
 
-<link href="http://fonts.googleapis.com/css?family=Asul:400,700|Quattrocento+Sans:400,400italic,700,700italic|Libre+Baskerville:400,400italic|Lekton|Anaheim|Cookie" rel="stylesheet" type="text/css">
+`<link href="http://fonts.googleapis.com/css?family=Asul:400,700|Quattrocento+Sans:400,400italic,700,700italic|Libre+Baskerville:400,400italic|Lekton|Anaheim|Cookie" rel="stylesheet" type="text/css">`
+
+From ["built with"](http://builtwith.com/?http%3a%2f%2fwww.nytimes.com%2fprojects%2f2012%2fsnow-fall%2f%23%2f%3fpart%3dtunnel-creek), I can tell that 
 
 
 
