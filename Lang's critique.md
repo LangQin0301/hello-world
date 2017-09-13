@@ -13,8 +13,13 @@ Hollow is an interactive documentary and community participatory project that ex
 
 ## ANALYSIS
 
+After reviewing many websites, I chose this interactive because I am interested in history and society, I want to learn what individules experience through the changes of time and environemnt, and how people face the changes beyond their control. This interactive fascinated me both by it's design and content.
 I was impressed by the visual effect when I first browsed the website, the form of interactive documentary was a total novelty to me, rather than traditional static display of images and texts, I love the interactive experience which combines video portraits, data visualizations, photography, soundscapes, community-generated content and grassroots mapping to bring these stories to life online. The combination is very rich and varied, which fixed my eyes on it all the way to the end. 
-As the reader scrolls, the content unfolds from different directions, in varied forms, and the sound changes as well. The reader can control the speed of scrolling, move back and forth, so the reader has her\his own pace of reading, the author hided more detailed information (including self-introductions, video portraits, and links of useful resource) on many pages and left tags as reminders, hence the reader can click these tags and explore more if she\he wants.
+
+I think the varied forms of expression are very conductive to the content, the background information I found says nearly twenty of the town's residents contributed short films, which range in topic from economic and infrastructure challenges to social and health issues. they are small-business owners, youth groups, coal miners, activists, high school students, fitness instructors and non-profit sector workers, they have different profile, life style and point of view. I think the author found a excellent way to organize these rich resources, the documentaries were made like colorful collage, which represent a vivid and comprehensive image of the whole community.
+
+As the reader scrolls, the content unfolds from different directions, in varied forms, and the sound changes as well. The reader can control the speed of scrolling, move back and forth, so the reader has her\his own pace of reading, the author hided more detailed information (including self-introductions, video portraits, credits and links of useful resource) on many pages and left tags as reminders, hence the reader can click these tags and explore more if she\he wants.
+
 
 
 
