@@ -23,27 +23,10 @@ It uses a combination of Javascript, HTML, and CSS as seen in the metatags in th
 
 `<link href="http://fonts.googleapis.com/css?family=Asul:400,700|Quattrocento+Sans:400,400italic,700,700italic|Libre+Baskerville:400,400italic|Lekton|Anaheim|Cookie" rel="stylesheet" type="text/css">`
 
-From ["built with"](http://builtwith.com/?http%3a%2f%2fwww.nytimes.com%2fprojects%2f2012%2fsnow-fall%2f%23%2f%3fpart%3dtunnel-creek), I can tell that 
+From ["built with"](http://builtwith.com/?http%3a%2f%2fwww.nytimes.com%2fprojects%2f2012%2fsnow-fall%2f%23%2f%3fpart%3dtunnel-creek), I can tell that it uses Express as a framework, a series of JQuery plugins and Javascript library, 
 
 
 
-From observation, I can see that the author alters the content display as the reader scrolls, creating an individual experience for all viewers set to the pace of their own reading.
-
-From inspecting element on the site, I can see that it uses UTF-8 character encoding in `<meta charset="utf-8">`, it has many browser support modifcations such as `<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->`, 
-
-It uses a combination of Javascript, HTML, and CSS as seen in the metatags in the `<header>` and the `<style>` tags (primarily CSS): 
-`<link type="text/css" rel="stylesheet" href="http://graphics8.nytimes.com/packages/css/multimedia/bundles/projects/2012/AvalancheDeploy.css">`
-
-From ["built with"](http://builtwith.com/?http%3a%2f%2fwww.nytimes.com%2fprojects%2f2012%2fsnow-fall%2f%23%2f%3fpart%3dtunnel-creek), I can tell that it's uses Wordpress as a CMS, PHP as a framework for the backend, a series of JQuery plugins and Javascript library, embedded Youtube videos and tweets, media queries for mobile compatibility, and HTML5 Boilerplate.
-
-Maybe the most interesting parts were the comments in the code, explaining why certain decisions were made like this one in the css: 
-
-`/* -----------------------------------------------------  footer tweak to avoid extra space below video */
-/*this seems to allow you to scroll past the video and cause the entire page to fade to 0 */`
-
-In the Console, I noticed there was an error `Uncaught TypeError: Cannot read property 'createOptions' of undefined`, I googled it and found this [StackOverflow](http://stackoverflow.com/questions/6550795/uncaught-typeerror-cannot-read-property-value-of-undefined) explanation but I am not sure it fully applies to my issue. 
-
-I feel the most compelling aspect of the interactive is how it seemed to move, heave, and swell with the user scroll, I would like to learn how to make that happen in code.
 
 ## RESOURCES
 
