@@ -1,11 +1,11 @@
-## 9/9/17
-### Aurelia Moser
+## 9/12/17
+### Lang Qin
 ### Metrics + Data Visualization I
 ### Interactive Critique
 
 ## INTRODUCTION
 
-For my critique, I chose [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek). The interactive is a chapterized narrative about climbing and an avalanche, replete with multimedia interactive pieces that punctuate the text as you scroll. It was written by John Branch on December 26th, 2012 with the help of collaborators.
+For my critique, I chose [hollowdocumentary](http://hollowdocumentary.com/). 
 
 The topic is detailed in the meta tags in the header of the code when you [view source or inspect element](https://blog.kissmetrics.com/how-to-read-source-code/), as here:
 
