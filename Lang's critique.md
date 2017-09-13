@@ -30,12 +30,12 @@ From ["built with"](http://builtwith.com/?http%3a%2f%2fwww.nytimes.com%2fproject
 
 ## RESOURCES
 
-* Hollow project team., [Hollow-An interactive Documentary](http://hollowdocumentary.com/).
+* Hollow project team, [Hollow-An interactive Documentary](http://hollowdocumentary.com/).
 * [Built With](http://builtwith.com/).
 * [Markdown syntax](http://daringfireball.net/projects/markdown/basics).
 
 ## IMAGE
 
-![Snowfall Inspect Element](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/snowfall.jpg)
+![Hollow-An interactive Documentary](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/snowfall.jpg)
 
-**Source for graphic**: Braven, J., [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek).
+**Source for graphic**:Hollow project team, [Hollow-An interactive Documentary](http://hollowdocumentary.com/).
