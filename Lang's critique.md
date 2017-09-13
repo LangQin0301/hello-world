@@ -5,11 +5,13 @@
 
 ## INTRODUCTION
 
-For my critique, I chose [hollowdocumentary](http://hollowdocumentary.com/). 
+For my critique, I chose [hollowdocumentary](http://hollowdocumentary.com/). Hollowdocumentary.com tells a story of McDowell County located in West Virginia. For the past half century, the small town went through dramatic changes of boom and bust economies, faced many chanllenges like losing job opportunities and twice flood disasters. While a large amount of population had left, many residents still insisted to stay and dedicated to prosper their community and hometown, which reflects the people's living situation in rural America and the history of the country.
 
-The topic is detailed in the meta tags in the header of the code when you [view source or inspect element](https://blog.kissmetrics.com/how-to-read-source-code/), as here:
 
-`<meta name="description" content="“Snow Fall: The Avalanche at Tunnel Creek,” by New York Times reporter John Branch, tells the harrowing story of skiers caught in an avalanche.">`
+Of small towns facing changes beyond their control. And of challenges and triumphs of every size. Experience this corner of America through the stories of over 30 residents who live here today.
+Hollow is an interactive documentary and community participatory project that examines the future of rural America through the eyes and voices of those living in McDowell County. The interactive experience, located at www.hollowdocumentary.com, combines video portraits, data visualizations, photography, soundscapes, community-generated content and grassroots mapping to bring these stories to life online.
+
+
 
 ## ANALYSIS
 From observation, I can see that the author alters the content display as the reader scrolls, creating an individual experience for all viewers set to the pace of their own reading.
