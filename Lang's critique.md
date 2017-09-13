@@ -36,6 +36,6 @@ From ["built with"](http://builtwith.com/?http%3a%2f%2fwww.nytimes.com%2fproject
 
 ## IMAGE
 
-![Hollow-An interactive Documentary](hello-world/2.png)
+![Hollow-An interactive Documentary]( ![alt text](/hello-world/5.png/to/img.jpg "Title"))
 
 **Source for graphic**:Hollow project team, [Hollow-An interactive Documentary](http://hollowdocumentary.com/).
