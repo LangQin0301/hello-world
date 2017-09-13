@@ -5,15 +5,19 @@
 
 ## INTRODUCTION
 
-For my critique, I chose [hollowdocumentary](http://hollowdocumentary.com/). Hollowdocumentary.com tells a story of McDowell County located in West Virginia. For the past half century, the small town went through dramatic changes of boom and bust economies, faced many chanllenges like losing job opportunities and twice flood disasters. While a large amount of population had left, many residents still insisted to stay and dedicated to prosper their community and hometown, which reflects the people's living situation in rural America and the history of the country.
+For my critique, I chose [hollowdocumentary](http://hollowdocumentary.com/). Hollowdocumentary.com contains six short interactive documentaries, they tell a story of McDowell County located in West Virginia. For the past half century, the small town went through dramatic changes of boom and bust economies, faced many chanllenges like losing job opportunities and twice flood disasters. While a large amount of population had left, many residents still insisted to stay and dedicated to prosper their community and hometown, which represents the people's authentic living situation in rural America and the history of the country.
 
 
 Of small towns facing changes beyond their control. And of challenges and triumphs of every size. Experience this corner of America through the stories of over 30 residents who live here today.
 Hollow is an interactive documentary and community participatory project that examines the future of rural America through the eyes and voices of those living in McDowell County. The interactive experience, located at www.hollowdocumentary.com, combines video portraits, data visualizations, photography, soundscapes, community-generated content and grassroots mapping to bring these stories to life online.
 
-
-
 ## ANALYSIS
+
+I was impressed by the visual effect when I first browsed the website, the form of interactive documentary was a total novelty to me, rather than traditional static display of images and texts, I love the interactive experience which combines video portraits, data visualizations, photography, soundscapes, community-generated content and grassroots mapping to bring these stories to life online. The combination is very rich and varied, which fixed my eyes on it all the way to the end. 
+As the reader scrolls, the content unfolds from different directions, in varied forms, and the sound changes as well. The reader can control the speed of scrolling, move back and forth, so the reader has her\his own pace of reading, the author hided more detailed information (including self-introductions, video portraits, and links of useful resource) on many pages and left tags as reminders, hence the reader can click these tags and explore more if she\he wants.
+
+
+
 From observation, I can see that the author alters the content display as the reader scrolls, creating an individual experience for all viewers set to the pace of their own reading.
 
 From inspecting element on the site, I can see that it uses UTF-8 character encoding in `<meta charset="utf-8">`, it has many browser support modifcations such as `<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->`, 
