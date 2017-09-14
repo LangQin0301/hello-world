@@ -5,18 +5,18 @@
 
 ## INTRODUCTION
 
-For my critique, I chose [hollowdocumentary](http://hollowdocumentary.com/). Hollowdocumentary.com contains six short interactive documentaries, they tell a story of McDowell County located in West Virginia. For the past half century, the small town went through dramatic changes of boom and bust economies, faced many challenges like losing job opportunities and twice flood disasters. While a large amount of population had left, many residents still insisted to stay and dedicated to prosper their community and hometown, which represents the people's authentic living situation in rural America and the history of the country.
+For my critique, I chose [hollowdocumentary](http://hollowdocumentary.com/). Hollowdocumentary.com contains six short interactive documentaries. They tell a story of McDowell County located in West Virginia. For the past half century, the small town went through dramatic changes in boom and bust economies, faced many challenges like losing job opportunities and twice flood disasters. While a large amount of population had left, many residents still insisted to stay and dedicated to prosper their community and hometown, which represents the people's authentic living situation in rural America and the history of the country.
 
 ![](https://github.com/LangQin0301/hello-world/blob/master/1.png)
 
 ## ANALYSIS
 
 After reviewing many websites, I chose this interactive because I am interested in history and society, I want to learn what individuals experience the changes of time and environment, and how people face the changes beyond their control. This interactive fascinated me both by its design and content.
-I was impressed by the visual effect when I first browsed the website, the form of interactive documentary was a total novelty to me, rather than traditional static display of images and texts, I love the interactive experience which combines video portraits, data visualizations, photography, soundscapes, community-generated content and grassroots mapping to bring these stories to life online. The combination is very rich and varied, which fixed my eyes on it all the way to the end. 
+I was impressed by the visual effect when I first browsed the website, the form of the interactive documentary was a total novelty to me. Rather than a traditional static display of images and text, I love the interactive experience which combines video portraits, data visualizations, photography, soundscapes, community-generated content and grassroots mapping to bring these stories to life online. The combination is very rich and varied, which fixed my eyes on it all the way to the end. 
 
-The varied forms of expression are very conducive to the content of the community. The background information I found says nearly twenty of the town's residents contributed short films, which range in topic from economic and infrastructure challenges to social and health issues. They are small-business owners, youth groups, coal miners, activists, high school students, fitness instructors and non-profit sector workers, they have different profile, life style and point of view. I think the author found an excellent way to organize these rich resources, the documentaries were made like colorful collages, which represent a vivid and comprehensive image of the whole community.
+The various forms of expression are very conducive to the content of the community. The background information I found says nearly twenty of the town's residents contributed short films, which range in topic from economic and infrastructure challenges to social and health issues. They are small-business owners, youth groups, coal miners, activists, high school students, fitness instructors and non-profit sector workers; they have different profile, life style and point of view. I think the author found an excellent way to organize these rich resources; he made The documentaries like colorful collages that represent a vivid and comprehensive image of the whole community.
 
-As the reader scrolls, the content unfolds in real-time, images come from different directions, in varied forms, and the sound changes as well. The reader can control the speed of scrolling, move back and forth, so as to have her\his own pace of reading. The author hid more detailed information (including self-introductions, video portraits, credits and links of useful resource) on many pages and left tags as a reminder, if the reader clicks these tags he\she can explore further or even contribute.
+As the reader scrolls, the content unfolds in real-time, images come from different directions, in varied forms, and the sound changes as well. The reader can control the speed of scrolling, move back and forth, to have her\his own pace of reading. The author hid more detailed information (including self-introductions, video portraits, credits and links of useful resource) on many pages and left tags as a reminder, if the reader clicks these tags he\she can explore further or even contribute.
 
 From inspecting element on the site, I can see that it uses a combination of Javascript, HTML, and CSS, but the combination is quite different from other websites because almost all the HTML content is constructed or generated by Javascript (as the following image), except several lines at the beginning and the end.
 
@@ -24,19 +24,19 @@ From inspecting element on the site, I can see that it uses a combination of Jav
 ![](https://github.com/LangQin0301/hello-world/blob/master/js.png)
 
 
-I also found that this website is not asynchronous loading, but synchronous loading, hence there is a relatively long time of loading process when the reader opens the website, this process costs most of its time to download a bunch of pictures, as we can see from its > Sources, every file of the age has 20+ pictures (as the following image). I think the synchronous loading is very conducive to the narrative form of the website, it provides a consistent and fluent user experience, even though the reader has to wait for several seconds at the beginning.
+I also found that this website is not asynchronous loading, but synchronous loading, hence there is a relatively long time of loading process when the reader opens the website. This process costs most of its time to download a bunch of pictures, as we can see from its > Sources, every file of the age has 20+ pictures (as the following image). I think the synchronous loading is very conducive to the narrative form of the website, it provides a consistent and fluent user experience, even though the reader has to wait for several seconds in the beginning.
 
 
 ![](https://github.com/LangQin0301/hello-world/blob/master/ages.png)
 
 
-For me, The most interesting part is the working mechanism of the website. The author uses Javascript to monitor the reader's behavior of scrolling, once it notices the scrolling, Javascript will load the next image. Every image has pre-designed CSS (as the following image) and corresponding texts, together they present the visual effect as a whole.
+For me, The most interesting part is the working mechanism of the website. The author uses Javascript to monitor the reader's behavior of scrolling, once it notices the scrolling, Javascript will load the next image. Every image has pre-designed CSS (as the following image) and corresponding text, together they present the visual effect as a whole.
 
 
 ![](https://github.com/LangQin0301/hello-world/blob/master/css.png)
 
 
-This design is very time and energy consuming, but the effect is outstanding. I can see much effort and passion of the author and the whole team, they devoted themselves to document and present the lives of these common people and their puny history which could have been forgotten. I am touched.
+This design is very time and energy consuming, but the effect is outstanding. I can see much effort and passion of the author and the whole team. They devoted themselves to document and present the lives of these ordinary people and their puny history which could have been forgotten. I am touched.
 
 
 
